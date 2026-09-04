@@ -1,10 +1,10 @@
 # Horizon Projects
 
-Bounded real-world projects, competitions, and prototypes for Project Horizon.
+Bounded real-world projects, competitions and prototypes for Project Horizon.
 
 This repository is for work that is larger than a learning exercise but does not yet justify a dedicated repository.
 
-## Examples
+## Typical Contents
 
 - competitions
 - short engineering builds
@@ -16,8 +16,14 @@ Projects that become long-lived flagship work may graduate to their own reposito
 
 ## Governance
 
-Project-specific implementation evidence lives here. Cross-thread priority, activation, pause, and resource decisions remain in `cherrynectar-rrr/Project_Horizon`.
+Project-specific implementation evidence and local STATUS live here. Cross-thread priority, activation, pause and resource decisions remain in `cherrynectar-rrr/Project_Horizon`.
 
-## Migration state
+## Canonical State
 
-Migration in progress. The 2026 Qingdao agricultural data competition is the first project being moved here.
+After the 2026-09-04 cutover, this repository is the canonical home for migrated bounded projects.
+
+Current active project:
+
+- `2026_Qingdao_Agri_Data_Competition/`
+
+Legacy copies in `Project_Horizon` are historical migration sources, not a second live workspace.
