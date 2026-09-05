@@ -38,31 +38,40 @@ Based on the 2026 campus-round notice provided by the user:
 
 ## Current Stage
 
-**Chinese Idea Map v1 — Complete**
+**Simple English Core v1 — Complete**
 
-The user's current core meaning is:
+The user can now understand and independently reconstruct the core argument in simple English.
 
-- civilizations should preserve their differences while communicating, learning from one another and cooperating rather than attacking or discrediting one another;
-- communication helps reduce barriers and enables cooperation that can support social development;
-- China should both learn from advanced knowledge and technology in the world and contribute Chinese experience and creations through international cooperation;
-- the user rejects zero-sum framing in which cooperation is reduced to competition for status, and sees ordinary people as those who often bear the cost when mistrust and hostility obstruct cooperation;
-- the user's personally credible example is GitHub/open-source collaboration: while struggling with Python, the user benefited from shared resources, observed creators from different countries learning from and helping one another, and now also uploads work in the hope that it may help people elsewhere;
-- desired takeaway combines: **different civilizations do not need to become the same; meaningful exchange can begin when ordinary people choose to learn, cooperate and share.**
+Current speech logic:
 
-The GitHub example is an entry point and evidence for the user's understanding of exchange and co-creation, not the speech topic itself.
+1. different flowers do not need to look the same; civilizations can also remain different and grow together;
+2. personal GitHub/Python experience demonstrates learning, cooperation and sharing across countries;
+3. the personal example leads to the broader idea that countries and civilizations can learn from others without losing themselves;
+4. high-speed rail is a researched candidate example for learning, adaptation and later independent development;
+5. solar energy is a researched supporting example for contribution to global development;
+6. central thought: **Learning can be a starting point, but not the end.** Learning from others does not mean following others forever;
+7. China can keep its own culture while learning, creating and sharing with the world;
+8. exchange should reduce mistrust and support cooperation, because ordinary people often bear the cost when hostility blocks cooperation;
+9. young people can participate through learning, sharing and working together;
+10. closing image returns to the garden of civilizations flourishing through exchange and cooperation.
 
-## Next Stage
+The user has personally reconstructed the major English sentences rather than receiving an opaque finished script.
 
-**Simple English Sentence Construction**
+## Current Draft State
 
-Convert the user's own Chinese meaning into short, natural English sentences that the user fully understands and can say aloud. Do not draft the full polished speech yet.
+**Speech Skeleton v1 — Assembled, not final**
 
-Immediate sequence:
+The current material includes:
 
-1. express the central idea in very simple English;
-2. express the GitHub personal example in simple English;
-3. connect the personal example back to civilizations and China's role;
-4. verify understanding through user reconstruction before assembling paragraphs.
+- garden opening image;
+- GitHub personal story;
+- bridge from personal learning to China and the world;
+- high-speed-rail learning/development example;
+- solar-energy contribution example;
+- China/civilization interpretation;
+- youth and cooperation conclusion.
+
+The next task is to compress, remove repetition, verify factual wording for the two national examples, and produce a user-understood **~3-minute Draft v1** suitable for timed read-through. Do not add decorative complexity or vocabulary beyond the user's current control.
 
 ## Capacity Guardrail
 
@@ -75,16 +84,15 @@ Until the preliminary submission:
 
 ## Next Milestone
 
-**Simple English Core v1**
+**Timed Speech Draft v1**
 
-Pass when the user can understand and independently reconstruct, in simple English:
+Pass when:
 
-- what the “Garden of Civilizations” means to them;
-- what role China should play in it;
-- the GitHub/open-source example;
-- the final takeaway about learning, cooperation and sharing.
-
-Do not assemble the full polished speech before this gate is passed.
+- the user understands every sentence;
+- the full draft stays tightly on **China in the Garden of Civilizations**;
+- factual claims used in the high-speed-rail / solar examples are verified and conservatively worded;
+- the user can read the draft aloud in roughly **2:45–3:00** without major breakdowns;
+- difficult vocabulary or sentence structures are replaced rather than memorized blindly.
 
 ## Success Levels
 
