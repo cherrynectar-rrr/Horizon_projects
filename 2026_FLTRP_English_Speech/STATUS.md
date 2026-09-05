@@ -38,19 +38,31 @@ Based on the 2026 campus-round notice provided by the user:
 
 ## Current Stage
 
-**Phase 1 — Meaning before English**
+**Chinese Idea Map v1 — Complete**
 
-Build the speech from the user's own ideas before drafting polished English.
+The user's current core meaning is:
 
-Current sequence:
+- civilizations should preserve their differences while communicating, learning from one another and cooperating rather than attacking or discrediting one another;
+- communication helps reduce barriers and enables cooperation that can support social development;
+- China should both learn from advanced knowledge and technology in the world and contribute Chinese experience and creations through international cooperation;
+- the user rejects zero-sum framing in which cooperation is reduced to competition for status, and sees ordinary people as those who often bear the cost when mistrust and hostility obstruct cooperation;
+- the user's personally credible example is GitHub/open-source collaboration: while struggling with Python, the user benefited from shared resources, observed creators from different countries learning from and helping one another, and now also uploads work in the hope that it may help people elsewhere;
+- desired takeaway combines: **different civilizations do not need to become the same; meaningful exchange can begin when ordinary people choose to learn, cooperate and share.**
 
-1. understand the prompt in plain Chinese;
-2. choose one personally credible angle;
-3. produce a short Chinese idea map;
-4. convert the idea map into simple English sentences;
-5. assemble and revise the speech;
-6. train delivery and remove dependence on the script;
-7. record and submit a compliant video.
+The GitHub example is an entry point and evidence for the user's understanding of exchange and co-creation, not the speech topic itself.
+
+## Next Stage
+
+**Simple English Sentence Construction**
+
+Convert the user's own Chinese meaning into short, natural English sentences that the user fully understands and can say aloud. Do not draft the full polished speech yet.
+
+Immediate sequence:
+
+1. express the central idea in very simple English;
+2. express the GitHub personal example in simple English;
+3. connect the personal example back to civilizations and China's role;
+4. verify understanding through user reconstruction before assembling paragraphs.
 
 ## Capacity Guardrail
 
@@ -63,16 +75,16 @@ Until the preliminary submission:
 
 ## Next Milestone
 
-**Chinese Idea Map v1**
+**Simple English Core v1**
 
-Pass when the user can state, in their own Chinese words:
+Pass when the user can understand and independently reconstruct, in simple English:
 
-- what “Garden of Civilizations” means to them;
-- what role China plays in that image;
-- one concrete example or personal connection they genuinely understand;
-- what they want the audience to remember at the end.
+- what the “Garden of Civilizations” means to them;
+- what role China should play in it;
+- the GitHub/open-source example;
+- the final takeaway about learning, cooperation and sharing.
 
-Do not draft the full polished English speech before this gate is passed.
+Do not assemble the full polished speech before this gate is passed.
 
 ## Success Levels
 
