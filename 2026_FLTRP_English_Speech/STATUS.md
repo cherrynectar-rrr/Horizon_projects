@@ -5,7 +5,7 @@ Status: GO — Active — Bounded Short-Term
 
 ## Current Goal
 
-Submit a genuine, understood and deliverable **3-minute off-script preliminary-round speech video** for the 2026 “外研社·国才杯”“理解当代中国” English Speech Competition Qingdao Agricultural University campus round by **2026-09-20**.
+Use the 2026 “外研社·国才杯”“理解当代中国” English Speech Competition Qingdao Agricultural University campus round as a **deadline-driven, real-output English training environment** and submit a genuine, understood and deliverable **3-minute off-script preliminary-round speech video** by **2026-09-20**.
 
 The speech topic is:
 
@@ -13,15 +13,51 @@ The speech topic is:
 
 A subtitle may be chosen by the contestant.
 
+The competition result is external feedback, not the primary optimization target. The primary capability target is:
+
+> Finish the Sprint able to organize and express personal ideas in simple, correct and natural English with materially less dependence on fixed memorized wording.
+
+## Execution Principle — Capability Before Prize
+
+Do **not** optimize the Sprint toward memorizing a polished competition script, stacking advanced vocabulary or imitating model competition essays merely to improve advancement odds.
+
+Use the competition because it provides:
+
+- a real deadline;
+- a real public output;
+- an external audience / judging signal;
+- pressure to turn passive English knowledge into usable speech.
+
+A strong competition result is welcome, but it is not sufficient evidence of success if the learner cannot speak outside the memorized text.
+
+Prefer the following training loop:
+
+`learner attempt → diagnose the real gap → minimum necessary repair → learner re-expression → off-script / variation → unfamiliar-topic transfer`
+
+Avoid the default failure mode:
+
+`AI writes full script → learner memorizes → repeated polish for competition style`
+
+Simple English is preferred when it is genuinely understood, reconstructable and speakable.
+
+## Target Transferable Capabilities
+
+By the end of the Sprint, aim for clear improvement in the ability to:
+
+1. turn a Chinese idea into simple, correct and natural English;
+2. express the same meaning in more than one way instead of depending on one fixed sentence;
+3. recover from a missing word by paraphrasing or routing around it instead of stopping the whole answer;
+4. speak continuously for roughly **2–3 minutes** from keywords or a short outline rather than a full script;
+5. organize a basically complete answer to a simple unprepared question;
+6. transfer the speaking process to new topics such as Python, STM32, the Qingdao data project, personal learning experience and future direction.
+
 ## Scope
 
 This is a temporary English-output sprint, not a new long-term English competition line.
 
-Primary capability target:
-
-> Move from difficulty producing English sentences to being able to understand, construct and deliver one coherent 3-minute English speech.
-
 Use `adaptive-guided-learning v0.1` as the default teaching mode: scaffold unfamiliar work, preserve the learner's own thinking, increase step size as capability appears, and avoid replacing learning with a polished AI-written script.
+
+Use `horizon-human-voice v0.1-draft` conservatively as a surface-quality aid: preserve natural learner-owned wording and repair only what materially hurts clarity, naturalness or speakability. Do not convert the learner's English into an AI-style essay.
 
 ## Official Competition Evidence
 
@@ -59,7 +95,7 @@ The user has personally reconstructed the major English sentences rather than re
 
 ## Current Draft State
 
-**Speech Skeleton v1 — Assembled, not final**
+**Speech Draft v1 — Assembled for practice, not a memorization endpoint**
 
 The current material includes:
 
@@ -71,7 +107,20 @@ The current material includes:
 - China/civilization interpretation;
 - youth and cooperation conclusion.
 
-The next task is to compress, remove repetition, verify factual wording for the two national examples, and produce a user-understood **~3-minute Draft v1** suitable for timed read-through. Do not add decorative complexity or vocabulary beyond the user's current control.
+The current fixed draft may be used as a training scaffold and submission candidate, but future practice should increasingly reduce dependence on exact wording through paraphrase, keyword-outline speaking and variation.
+
+## Near-Term Training Route
+
+Before preliminary submission:
+
+1. stabilize meaning and pronunciation enough for a compliant 3-minute delivery;
+2. practice paragraph-level reconstruction without looking at exact sentences;
+3. replace selected sentences with equivalent learner-generated alternatives;
+4. train recovery when a word is missing;
+5. move from full text → marked pauses → keywords / outline → off-script delivery;
+6. introduce small unprepared follow-up questions once the prepared speech is stable enough.
+
+Do not endlessly polish wording after the script is already clear and speakable.
 
 ## Capacity Guardrail
 
@@ -84,7 +133,7 @@ Until the preliminary submission:
 
 ## Next Milestone
 
-**Timed Speech Draft v1**
+**Timed Speech Draft v1 → Keyword / Reconstruction Transition**
 
 Pass when:
 
@@ -92,15 +141,40 @@ Pass when:
 - the full draft stays tightly on **China in the Garden of Civilizations**;
 - factual claims used in the high-speed-rail / solar examples are verified and conservatively worded;
 - the user can read the draft aloud in roughly **2:45–3:00** without major breakdowns;
-- difficult vocabulary or sentence structures are replaced rather than memorized blindly.
+- difficult vocabulary or sentence structures are replaced rather than memorized blindly;
+- the user can reconstruct major paragraphs from meaning / keywords without depending on exact original wording.
+
+## Final Transfer Gate — Post-Submission
+
+After the preliminary video is submitted, temporarily remove the competition script from view and run one unfamiliar speaking test.
+
+Default format:
+
+- unseen topic, for example: **“Tell me about a technical project you worked on.”**
+- short preparation period;
+- independent **1–2 minute** English response;
+- a few simple follow-up questions;
+- no full-sentence script preparation.
+
+Evaluate whether the learner can:
+
+- organize a beginning, middle and end;
+- keep speaking despite missing words;
+- paraphrase when needed;
+- answer simple follow-ups;
+- reuse the same speaking process on a new domain.
+
+The Transfer Gate is the main evidence that the competition training became personal capability rather than isolated script performance.
 
 ## Success Levels
 
-1. **Delivery success:** compliant preliminary video submitted on time.
-2. **Capability success:** the user understands the whole speech and can deliver it off-script rather than merely reciting opaque AI text.
-3. **Competition success:** advance to the campus final.
+1. **Capability success — primary:** the learner can organize English more independently, continue speaking, answer simple follow-ups and transfer the process to an unfamiliar topic.
+2. **Delivery success — required project output:** a compliant preliminary video is submitted on time.
+3. **Competition result — external feedback:** advancement or awards provide useful evidence, but do not override the capability criterion.
 
-If the user advances, activate a short Phase 2 through the campus final for impromptu speaking and Q&A. If not, close the sprint after a concise learning review.
+A non-advancement result can still be a successful Sprint if the Transfer Gate shows material capability growth. An award without transferable speaking ability is not sufficient capability success.
+
+If the user advances, activate a short Phase 2 through the campus final for impromptu speaking and Q&A while preserving the same capability-first principle. If not, complete the Transfer Gate and close the sprint after a concise learning review.
 
 ## Blockers
 
